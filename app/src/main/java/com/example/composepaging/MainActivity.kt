@@ -426,3 +426,6 @@ fun BottomNavigationMenu(touchedNav: MutableState<Int>) {
         }
     }
 }
+
+
+//aaa
